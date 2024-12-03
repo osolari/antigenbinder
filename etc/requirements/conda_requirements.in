@@ -1,0 +1,63 @@
+### General Packages ###
+websocket-client
+dxpy
+awscli
+boto3
+openpyxl
+requests
+argcomplete
+
+setuptools
+ipython
+mamba
+pip
+black
+blackd
+joblib
+
+numpy<1.24
+cython
+scipy
+pandas<=1.5.3
+scikit-learn
+statsmodels
+cvxpy
+torchvision
+torchdata
+pytorch-lightning
+rpy2
+
+mysql-connector-python
+
+biopython
+pybigwig
+pybedtools
+pysam
+pyfaidx
+
+jupyter
+jupyterlab
+
+### Testing ###
+pytest
+pytest-runner
+pytest-xdist
+pytest-cov
+coverage
+ipytest
+ipdb
+
+### Plotting ###
+matplotlib
+seaborn
+
+### R Libraries ###
+r-base
+r-recommended
+r-irkernel
+r-devtools
+
+### Binaries ###
+samtools
+parallel
+rsync
